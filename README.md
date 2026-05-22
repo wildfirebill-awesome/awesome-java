@@ -1,4 +1,5 @@
 # Awesome Java [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+Modified by [wildfirebill](https://github.com/wildfirebill)
 
 A curated list of awesome Java frameworks, libraries and software.
 
